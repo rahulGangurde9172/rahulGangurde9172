@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gangurde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ASP.NET core Developer from India</h3>
 
 <img align="center" alt="codding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 🌱 I’m currently learning Frameworks , java,etc.
